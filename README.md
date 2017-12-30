@@ -2,9 +2,14 @@
 
 ## Profile
 - 이름 : 정성민
+- 군필 : 현 병역특례 복무중
 - email : jspiner@naver.com
 - github : github.com/jspiner
 - linkedin : linkedin.com/in/jspiner
+
+## 회사경력
+- 프리랜서 (2014~2016)
+- 피알앤디컴퍼니 (2017~현재) 
 
 ## 단체경력
 - 삼성소프트웨어멤버쉽 (2014)
@@ -15,6 +20,27 @@
 ## 학력
 - 디지털미디어고등학교 해킹방어과 졸업
 - 세종대학교 컴퓨터공학과(2학년 휴학중)
+
+## 사용 기술
+### Android
+- rxJava
+- Retrofit / Okhttp
+- Fabric / GoogleAnalytics
+- TravisCI + Deploy
+- lint + test code
+
+### Server
+- python - flask/gunicorn
+- newrelic
+- celery 
+- rabbitmq / messageQ / redis
+- docker 
+
+### Process
+- 모니터링 - Fabirc/newrelic/GA
+- Communication - Slack
+- 이슈관리 - Github / Jira(애자일/스프린트/칸반)
+- CI/CD - TravisCI / Zenkins / Coveralls
 
 ## 프로젝트 이력
 ### Surfinger
