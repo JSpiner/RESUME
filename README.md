@@ -4,8 +4,8 @@
 - 이름 : 정성민
 - 군필 : 현 병역특례 복무중
 - email : jspiner@naver.com
-- github : github.com/jspiner
-- linkedin : linkedin.com/in/jspiner
+- github : [github.com/jspiner](https://github.com/jspiner)
+- linkedin : [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 
 ## 회사경력
 - 프리랜서 (2014~2016)
