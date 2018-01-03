@@ -4,8 +4,8 @@
 - 이름 : 정성민
 - 군필 : 현 병역특례 복무중
 - email : jspiner@naver.com
-- github : github.com/jspiner
-- linkedin : linkedin.com/in/jspiner
+- github : [github.com/jspiner](https://github.com/jspiner)
+- linkedin : [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 
 ## 회사경력
 - 프리랜서 (2014~2016)
@@ -104,7 +104,7 @@
 #### Window10 Game Jam 
 - 수상 날짜 : 2015년 5월
 
-#### 비즈쿨 페스티벌 최우수 동아리상(교내))
+#### 비즈쿨 페스티벌 최우수 동아리상(교내)
 - 수상 날짜 : 2013년 9월  
 - 시상기관한국디지털미디어고등학교장
 
