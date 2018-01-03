@@ -41,7 +41,7 @@
 - 모니터링 - Fabric/newrelic/GA
 - Communication - Slack
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반)
-- CI/CD - TravisCI / Zenkins / Coveralls
+- CI/CD - TravisCI / Jenkins / Coveralls
 
 ## 프로젝트 이력
 ### Surfinger
