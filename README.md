@@ -18,14 +18,15 @@
 - Mashup 개발동아리 (2017~현재)
 
 ## 학력
-- 디지털미디어고등학교 해킹방어과 졸업
+- 디지털미디어고등학교 해킹방어과 졸업 (2012~2014)
 - 세종대학교 컴퓨터공학과(2학년 휴학중)
 
 ## 사용 기술
 ### Android
 - rxJava
-- Retrofit / Okhttp
+- MVP code pattern
 - Fabric / GoogleAnalytics
+- DataBinding
 - TravisCI + Deploy
 - lint + test code
 
@@ -37,7 +38,7 @@
 - docker 
 
 ### Process
-- 모니터링 - Fabirc/newrelic/GA
+- 모니터링 - Fabric/newrelic/GA
 - Communication - Slack
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반)
 - CI/CD - TravisCI / Zenkins / Coveralls
@@ -76,10 +77,10 @@
 #### 강원랜드 메이커톤 대상(1등위) 수정
 - 수상 날짜 : 2017년 1월
 
-#### 대한민국 SW 융합 해커톤 대회 - 우수상 수정
+#### 대한민국 SW 융합 해커톤 대회 - 우수상
 - 수상 날짜 : 2016년 9월
 
-#### 고려대학교 해커톤 - 우수상(2등위) 수정
+#### 고려대학교 해커톤 - 우수상(2등위)
 - 수상 날짜 : 2016년 8월
 
 #### StartUp WeekEnd - BestEngineer
@@ -101,7 +102,7 @@
 #### Microsoft WOWZAPP 윈도우8 해커톤 공동 3위 수상
 - 수상 날짜 : 2012년 12월
 
-#### SK App Jam 3위 소상
+#### SK App Jam 3위 수상
 - 수상 날짜 : 2012년 12월
 
 #### Microsoft App Star Awards 은상 수상
