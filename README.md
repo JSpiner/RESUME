@@ -47,6 +47,7 @@
 - CI/CD - TravisCI / Jenkins / Coveralls
 
 ## 프로젝트 이력
+
 ### Surfinger
 - 소개: 슬랙 봇 기반 타자게임
 - 기간: 2016.09 ~ 2016.12
@@ -62,6 +63,18 @@
 - 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
 - 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
 
+### 헤이딜러
+- 소개: 경매로 내차팔기 서비스
+- 기간: 2017.07 ~ 현재
+- 역할: 유지보수, 신규기능 개발(현재 인수인계후 1인개발)
+- 관련기술: rxJava, databinding, lint, Travis, Fabric
+
+### 헤이딜러 딜러용
+- 소개: 경매로 내차팔기 서비스 딜러용 어플리케이션
+- 기간: 2017.07 ~ 현재
+- 역할: 신규개발(80% 이상 담당)
+- 관련기술: rxJava, databinding, lint, Travis, Fabric
+
 ## 오픈소스 기여
 
 ### CacheBank
@@ -70,7 +83,7 @@
 - test coverage 83%
 - 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
 
-### TedPermission
+### TedPermission [Contributor]
 - Travis 빌드 관련 설정 수정 PR
 - https://github.com/ParkSangGwon/TedPermission/pull/66
 
