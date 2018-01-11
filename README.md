@@ -1,6 +1,7 @@
 # 이력서
 
 ## Profile
+![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
 - 군필여부: 현 병역특례 복무중
 - email: jspiner@naver.com
