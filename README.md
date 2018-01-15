@@ -187,3 +187,5 @@
 ### [Gwangsu Shin](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(Developer, Fandom Inc.)
 >해커톤마니아. 매사에 전념해 항상 좋은 결과를 만듬
 
+### [Dean](https://github.com/KimByungChan/)(Developer, PRNDCompany)
+> <img src="https://github.com/JSpiner/RESUME/raw/master/images/comment_dean.png" width="200" height="200" />
