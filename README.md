@@ -90,6 +90,10 @@
 - Travis 빌드 관련 설정 수정 PR
 - https://github.com/ParkSangGwon/TedPermission/pull/66
 
+### RxAndroid [Contributor]
+- 오타 수정 PR
+- https://github.com/ReactiveX/RxAndroid/pull/411
+
 ## 수상 경력
 
 #### Startup Weekend 2017 Osaka, Japan 1st Place
