@@ -47,7 +47,7 @@
 ### Process
 - 모니터링 - Fabric/newrelic/GA
 - Communication - Slack
-- 이슈관리 - Github / Jira(애자일/스프린트/칸반)
+- 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
 - CI/CD - TravisCI / Coveralls
 
 ## 프로젝트 이력
@@ -83,7 +83,7 @@
 
 ### CacheBank
 - 개인 프로젝트
-- rxJava기반 Disk/Memory 캐싱 라이브러리
+- rxJava기반 안드로이드 Disk/Memory 캐싱 라이브러리
 - test coverage 83%
 - 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
 
