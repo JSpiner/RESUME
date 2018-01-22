@@ -11,6 +11,7 @@
 - email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+- test
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
 
