@@ -11,7 +11,10 @@
 - email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
-- test
+
+```
+주석으로 코드를 설명하는걸 지양하고, 코드와 테스트로 'how', 'why'를 설명할 수 있도록 노력하고 있습니다.
+```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
 
