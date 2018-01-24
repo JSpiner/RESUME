@@ -54,6 +54,19 @@
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
 - CI/CD - TravisCI / Coveralls
 
+```
+새로운것을 배우는건 언제나 즐거운 일입니다.
+현재는 아래것들을 익히고 있습니다.
+
+- Test Code(TDD는 아닙니다.)
+- Clean Code
+- MVP Pattern
+
+앞으로는 아래것들을 익히려고 합니다.
+- Kotlin
+- DI
+```
+
 ## 프로젝트 이력
 
 ### Surfinger
