@@ -73,7 +73,7 @@
 - 소개: 슬랙 봇 기반 타자게임
 - 기간: 2016.09 ~ 2016.12
 - 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
-- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic, 
+- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
 - 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
 
 ### CALY
