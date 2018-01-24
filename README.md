@@ -49,7 +49,7 @@
 - docker 
 
 ### Process
-- 모니터링 - Fabric/newrelic/GA
+- 모니터링 - Fabric / newrelic / GA
 - Communication - Slack
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
 - CI/CD - TravisCI / Coveralls
