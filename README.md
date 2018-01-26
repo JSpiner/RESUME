@@ -213,3 +213,9 @@
 ### [Jaeil Lee](https://github.com/githubrat/)(Developer, Fdding Inc.)
 > 해커톤 마니아. <br> 골치아픈 이슈들이 생겼을 때 여러번 도움을 받은 경험이 있습니다. 여러 상황에서 생길만한 이슈대응능력이 좋습니다.
 > <br> 관심갖는 모든 영역에 깊게 파고 듭니다.
+
+### [Philographer](https://github.com/philographer/)(Developer, [Team Mondrian.](https://teammondrian.com/))
+> Fast Learner<br/>
+> 같은 소프트웨어 마에스트로 활동했던 동기, 그리고 해커톤 파트너로서 바라본 `JSpiner`는<br/>
+> 자신의 코드에서 개선할 점을 끊임없이 알아내려고 하며 빠르고 능동적으로 학습하는 멋진 개발자입니다.<br/>
+> 뿐만 아니라 주변 지인들로부터 항상 배우려는 자세와 태도를 가지고 있어서 앞으로의 성장이 더 기대됩니다.
