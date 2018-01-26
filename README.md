@@ -13,7 +13,8 @@
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 
 ```
-주석으로 코드를 설명하는걸 지양하고, 코드와 테스트만으로 'how', 'why'를 설명할 수 있도록 노력하고 있습니다.
+주석으로 코드를 설명하는걸 지양하고, 
+코드와 테스트만으로 'how', 'why'를 설명하는걸 지향하고 있습니다.
 ```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
@@ -54,7 +55,7 @@
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
 - CI/CD - TravisCI / Coveralls
 
-```
+### TODO
 새로운것을 배우는건 언제나 즐거운 일입니다.
 현재는 아래것들을 익히고 있습니다.
 - Test Code(TDD는 아닙니다.)
@@ -65,7 +66,6 @@
 앞으로는 아래것들을 익히려고 합니다.
 - Kotlin
 - DI
-```
 
 ## 프로젝트 이력
 
