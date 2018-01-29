@@ -8,13 +8,13 @@
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
 - 군필여부: 현 병역특례 복무중
-- email: jspiner@naver.com
+- Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 
 ```
 주석으로 코드를 설명하는걸 지양하고, 
-코드와 테스트만으로 'how', 'why'를 설명하는걸 지향하고 있습니다.
+코드와 테스트만으로 'how', 'why'를 표현하는걸 지향하고 있습니다.
 ```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
@@ -37,20 +37,18 @@
 ### Android
 - rxJava
 - Model-View-Presenter(MVP) Pattern
-- Fabric / Google Analytics
 - DataBinding
 - TravisCI + Deploy
 - lint + test code
 
 ### Server
 - python - flask/gunicorn
-- newrelic
 - celery 
 - rabbitmq / messageQ / redis
 - docker 
 
 ### Process
-- 모니터링 - Fabric / newrelic / GA
+- 모니터링 - Fabric / Newrelic / Google Analytics
 - Communication - Slack
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
 - CI/CD - TravisCI / Coveralls
@@ -204,16 +202,16 @@
 - 시상기관 : 울산광역시교육감
 
 ## 지인 평가
-### [Hanseulmaro Kim](https://github.com/honeymaro)(Developer, CICERON Inc.)
+### [Hanseulmaro Kim](https://github.com/honeymaro)(Developer, [CICERON Inc.](https://ciceron.me/))
 >얕고 넓게 신기술을 좇기보다는 한 가지 기술의 원리 파악 및 응용에 집중하는 편입니다. 따라서 대화를 할 때 그 깊이를 많이 체감하곤 합니다. 그리고 항상 본인의 실력을 가늠하기 위해 필드에서 빨리 적용해보고 각종 대회에서 열심히 검증받으려 합니다. 컴퓨터 이외에도 호기심을 자극하는 활동에 끊임없이 도전하는 모습에서 배움에 대한 열정 또한 대단하다고 생각합니다. 항상 겸손하고 예의 바른 모습도 보기 좋습니다. 화이팅입니다!!
 
-### [Gwangsu Shin](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(Developer, Fandom Inc.)
+### [Gwangsu Shin](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(Developer, [Fandom Inc.](http://fandom.io/))
 >해커톤마니아. 매사에 전념해 항상 좋은 결과를 만듬
 
-### [Dean](https://github.com/KimByungChan/)(Developer, PRNDCompany)
+### [Dean](https://github.com/KimByungChan/)(Developer, [PRNDCompany](http://prnd.co.kr))
 > <img src="https://github.com/JSpiner/RESUME/raw/master/images/comment_dean.png" width="200" height="200" />
 
-### [Jaeil Lee](https://github.com/githubrat/)(Developer, Fdding Inc.)
+### [Jaeil Lee](https://github.com/githubrat/)(Developer, [Fdding Inc.](http://fdding.com/))
 > 해커톤 마니아. <br> 골치아픈 이슈들이 생겼을 때 여러번 도움을 받은 경험이 있습니다. 여러 상황에서 생길만한 이슈대응능력이 좋습니다.
 > <br> 관심갖는 모든 영역에 깊게 파고 듭니다.
 
