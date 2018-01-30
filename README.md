@@ -133,8 +133,8 @@
 #### 강원랜드 메이커톤 - 대상(1등위)
 - 수상 날짜 : 2017년 1월
 
-이 이외에도 [25+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
-
+### 이 이외에도 [25+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
+(너무 길어져 생략합니다. [AWARDS.md에서](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md) 확인해주세요)
 
 ## 지인 평가
 ### [Hanseulmaro Kim](https://github.com/honeymaro)(Developer, [CICERON Inc.](https://ciceron.me/))
