@@ -68,6 +68,8 @@
 ## 프로젝트 이력
 
 ### Surfinger
+<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
+
 - 소개: 슬랙 봇 기반 타자게임
 - 기간: 2016.09 ~ 2016.12
 - 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
@@ -75,6 +77,8 @@
 - 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
 
 ### CALY
+<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
+
 - 소개: 일정기반 추천서비스 CALY
 - 기간: 2016.12 ~ 2017.07
 - 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
@@ -159,9 +163,9 @@
 ### [jangjunha](https://github.com/jangjunha/)(Developer, [Frientrip](https://frip.co.kr/))
 > 개발자로서도 팀원으로서도 함께하고 싶은 사람입니다.
 
-------
+
+<br/>
 
 여기까지 읽어주셔서 감사합니다. <br/>
 부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jspiner@naver.com으로 연락주세요.<br/>
-
 감사합니다.
