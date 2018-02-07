@@ -111,8 +111,7 @@
 - [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
 
 ### RxAndroid [Contributor]
-- 오타 수정 PR
-- https://github.com/ReactiveX/RxAndroid/pull/411
+- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
 ## 수상 경력
 취미로 해커톤을 종종 나가곤 합니다. <br/>
