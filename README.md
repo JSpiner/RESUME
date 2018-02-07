@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
 ![status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)
 
-## Profile
+## 프로필
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
 - 군필여부: 현 병역특례 복무중
@@ -13,6 +13,9 @@
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 
 ```
+> 대답이 아니라 질문으로 사람을 판단하라. -볼테르-
+제가 가장 좋아하는 말입니다. 항상 좋은 질문을 하려고 노력합니다.
+
 주석으로 코드를 설명하는걸 지양하고, 
 코드와 테스트만으로 'how', 'why'를 표현하는걸 지향하고 있습니다.
 ```
