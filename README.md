@@ -107,8 +107,8 @@
 - 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
 
 ### TedPermission [Contributor]
-- Travis 빌드 관련 설정 수정 PR
-- https://github.com/ParkSangGwon/TedPermission/pull/66
+- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
+- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
 
 ### RxAndroid [Contributor]
 - 오타 수정 PR
