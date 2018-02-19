@@ -57,18 +57,18 @@ trying to express 'how' and 'why' just by code and testing.
 - CI/CD - TravisCI / Coveralls
 
 ### TODO
-**새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
-현재는 아래것들을 익히고 있습니다.
-- Test Code(TDD는 아닙니다.)
+Learning **new things** is always fun. <br/>
+I am currently learning the following:
+- Test Code(Not TDD)
 - Clean Code
 - MVP Pattern
 - Docker
 
-앞으로는 아래것들을 익히려고 합니다.
+In the future I want to learn the following things.
 - Kotlin
 - DI
 
-## 프로젝트 이력
+## Projects
 
 ### Surfinger
 <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
@@ -101,11 +101,11 @@ trying to express 'how' and 'why' just by code and testing.
 - 역할: 신규개발(80% 이상 담당)
 - 관련기술: rxJava, databinding, lint, Travis, Fabric, MVP
 
-## 오픈소스 기여
+## Contribute in open source
 
 ### CacheBank
-- 개인 프로젝트
-- rxJava기반 안드로이드 Disk/Memory 캐싱 라이브러리
+- Personal Project
+- rxJava based android Disk/Memory caching library
 - test coverage 83%
 - 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
 
@@ -116,10 +116,10 @@ trying to express 'how' and 'why' just by code and testing.
 ### RxAndroid [Contributor]
 - [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
-## 수상 경력
-취미로 해커톤을 종종 나가곤 합니다. <br/>
-**프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
-해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
+## Awards
+I often go hackerthons as a hobby. <br/>
+**"How about applying it to a project?"** New technologies
+I will try to apply it simply in Hackerthon and apply it in the project.
 
 #### Unithon 대학생 연합 해커톤 - NH 농협은행상
 - 수상 날짜 : 2018년 1월
@@ -142,7 +142,7 @@ trying to express 'how' and 'why' just by code and testing.
 ### 이 이외에도 [25+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
 (너무 길어져 생략합니다. [AWARDS.md에서](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md) 확인해주세요)
 
-## 지인 평가
+## Peer evaluation
 ### [Hanseulmaro Kim](https://github.com/honeymaro)(Developer, [CICERON Inc.](https://ciceron.me/))
 >얕고 넓게 신기술을 좇기보다는 한 가지 기술의 원리 파악 및 응용에 집중하는 편입니다. 따라서 대화를 할 때 그 깊이를 많이 체감하곤 합니다. 그리고 항상 본인의 실력을 가늠하기 위해 필드에서 빨리 적용해보고 각종 대회에서 열심히 검증받으려 합니다. 컴퓨터 이외에도 호기심을 자극하는 활동에 끊임없이 도전하는 모습에서 배움에 대한 열정 또한 대단하다고 생각합니다. 항상 겸손하고 예의 바른 모습도 보기 좋습니다. 화이팅입니다!!
 
