@@ -4,10 +4,13 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
 ![status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)
 
+[For English Version](./README_en.md)
+
 ## 프로필
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
 - 군필여부: 현 병역특례 복무중
+- 취미: 자전거, 칵테일, 사격, **카페코딩**
 - Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
