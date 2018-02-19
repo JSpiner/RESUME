@@ -10,7 +10,7 @@
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
 - 군필여부: 현 병역특례 복무중
-- 취미: 자전거, 칵테일, 사격, **카페코딩**
+- 취미: 자전거, **해커톤**, 칵테일, 사격, **카페코딩**
 - Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
