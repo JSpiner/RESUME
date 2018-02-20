@@ -118,7 +118,7 @@ In the future I want to learn the following things.
 
 ## Awards
 I often go hackerthons as a hobby. <br/>
-**"How about applying it to a project?"** New technologies
+**"How about applying it to a project?"** New technologies <br/>
 I will try to apply it simply in Hackerthon and apply it in the project.
 
 #### Unithon 대학생 연합 해커톤 - NH 농협은행상
@@ -139,8 +139,8 @@ I will try to apply it simply in Hackerthon and apply it in the project.
 #### 강원랜드 메이커톤 - 대상(1등위)
 - 수상 날짜 : 2017년 1월
 
-### 이 이외에도 [25+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
-(너무 길어져 생략합니다. [AWARDS.md에서](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md) 확인해주세요)
+### In addition, there are [25+ awards](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md). 
+(Too long to omit. check it at [AWARDS.md](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md).)
 
 ## Peer evaluation
 ### [Hanseulmaro Kim](https://github.com/honeymaro)(Developer, [CICERON Inc.](https://ciceron.me/))
