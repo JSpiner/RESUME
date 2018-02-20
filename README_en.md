@@ -16,8 +16,8 @@
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 
 ```
-Avoid annotations to describe the code,
-trying to express 'how' and 'why' just by code and testing.
+I'm trying to avoid annotations to describe the code,
+and trying to express 'how' and 'why' just by code and testing.
 ```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
