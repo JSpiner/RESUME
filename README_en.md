@@ -10,7 +10,7 @@
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - Name: SungMin Jung
 - Military duty: Working as Skilled Industry Personnel.
-- Hobby: bicycle, cocktail, shooting, **Cafe Coding**
+- Hobby: bicycle, **hackathon**, cocktail, shooting, **cafe coding**
 - Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
@@ -168,6 +168,6 @@ I will try to apply it simply in Hackerthon and apply it in the project.
 
 <br/>
 
-여기까지 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jspiner@naver.com으로 연락주세요.<br/>
-감사합니다.
+Thanks for reading. <br/>
+If you have any questions, please leave a [issue](https://github.com/JSpiner/RESUME/issues) or send me email to  jspiner@naver.com<br/>
+Thanks!
