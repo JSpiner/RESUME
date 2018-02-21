@@ -6,7 +6,7 @@
 
 [한국어 버전](./README.md) [English Version](./README_en.md)
 
-## 프로필
+## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
 - 군필여부: 현 병역특례 복무중
@@ -21,7 +21,7 @@
 ```
 
 ```
-> 대답이 아니라 질문으로 사람을 판단하라. -볼테르-
+대답이 아니라 질문으로 사람을 판단하라. -볼테르-
 제가 가장 좋아하는 말입니다. 항상 좋은 질문을 하려고 노력합니다.
 ```
 
@@ -75,24 +75,6 @@
 
 ## 프로젝트 이력
 
-### Surfinger
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
-
-- 소개: 슬랙 봇 기반 타자게임
-- 기간: 2016.09 ~ 2016.12
-- 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
-- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
-- 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
-
-### CALY
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
-
-- 소개: 일정기반 추천서비스 CALY
-- 기간: 2016.12 ~ 2017.07
-- 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
-- 관련기술: Android, CI/CD(travis), Caldav, 3-legged OAuth, Travis, JIRA(애자일 스프린트), Collaborative Filtering(추천 알고리즘)
-- 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
-- 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
 
 ### 헤이딜러
 - 소개: 경매로 내차팔기 서비스
@@ -105,6 +87,25 @@
 - 기간: 2017.07 ~ 현재
 - 역할: 신규개발(80% 이상 담당)
 - 관련기술: rxJava, databinding, lint, Travis, Fabric, MVP
+
+### CALY
+<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
+
+- 소개: 일정기반 추천서비스 CALY
+- 기간: 2016.12 ~ 2017.07
+- 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
+- 관련기술: Android, CI/CD(travis), Caldav, 3-legged OAuth, Travis, JIRA(애자일 스프린트), Collaborative Filtering(추천 알고리즘)
+- 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
+- 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
+
+### Surfinger
+<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
+
+- 소개: 슬랙 봇 기반 타자게임
+- 기간: 2016.09 ~ 2016.12
+- 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
+- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
+- 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
 
 ## 오픈소스 기여
 
@@ -149,7 +150,7 @@
 
 ## 지인 평가
 ### [Hanseulmaro Kim](https://github.com/honeymaro)(Developer, [CICERON Inc.](https://ciceron.me/))
->얕고 넓게 신기술을 좇기보다는 한 가지 기술의 원리 파악 및 응용에 집중하는 편입니다. 따라서 대화를 할 때 그 깊이를 많이 체감하곤 합니다. 그리고 항상 본인의 실력을 가늠하기 위해 필드에서 빨리 적용해보고 각종 대회에서 열심히 검증받으려 합니다. 컴퓨터 이외에도 호기심을 자극하는 활동에 끊임없이 도전하는 모습에서 배움에 대한 열정 또한 대단하다고 생각합니다. 항상 겸손하고 예의 바른 모습도 보기 좋습니다. 화이팅입니다!!
+>얕고 넓게 신기술을 좇기보다는 한 가지 기술의 원리 파악 및 응용에 집중하는 편입니다. 따라서 대화를 할 때 그 깊이를 많이 체감하곤 합니다. 그리고 항상 본인의 실력을 가늠하기 위해 각종 대회에서빨리 적용해보고 필드에서 열심히 검증받으려 합니다. 컴퓨터 이외에도 호기심을 자극하는 활동에 끊임없이 도전하는 모습에서 배움에 대한 열정 또한 대단하다고 생각합니다. 항상 겸손하고 예의 바른 모습도 보기 좋습니다. 화이팅입니다!!
 
 ### [Gwangsu Shin](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(Developer, [Fandom Inc.](http://fandom.io/))
 >해커톤마니아. 매사에 전념해 항상 좋은 결과를 만듬
