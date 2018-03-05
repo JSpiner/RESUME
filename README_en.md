@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
 ![status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)
 
-[한국어 버전](./README.md) [English Version](./README_en.md)
+[한국어](./README.md) [English](./README_en.md)
 
 ## Profile
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
