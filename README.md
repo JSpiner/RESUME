@@ -14,7 +14,7 @@
 클린코더에 나온 말처럼, 창의적인 출력은 창의적인 입력에서 나온다고 생각합니다. <br/>
 색다르고 다양한 것들을 해보고 있습니다.
 
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**
+- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행
 - Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
