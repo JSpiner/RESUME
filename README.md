@@ -85,13 +85,13 @@
 - 소개: 경매로 내차팔기 서비스
 - 기간: 2017.07 ~ 현재
 - 역할: 유지보수, 신규기능 개발(현재 인수인계후 1인개발)
-- 관련기술: rxJava, databinding, lint, Travis, Fabric
+- 관련기술: rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
 
 ### 헤이딜러 딜러용
 - 소개: 경매로 내차팔기 서비스 딜러용 어플리케이션
 - 기간: 2017.07 ~ 현재
 - 역할: 신규개발(80% 이상 담당)
-- 관련기술: rxJava, databinding, lint, Travis, Fabric, MVP
+- 관련기술: rxJava, databinding, lint, Travis, Fabric, MVP, JWT
 
 ### CALY
 <img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
