@@ -65,6 +65,7 @@
 - 커뮤니케이션 - Slack
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
 - CI/CD - TravisCI / Coveralls
+- 버전관리 - Git에 익숙하며 GitFlow를 애용합니다.
 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
