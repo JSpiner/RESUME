@@ -74,9 +74,9 @@
 - Clean Code
 - MVP Pattern
 - Docker
+- Kotlin
 
 앞으로는 아래것들을 익히려고 합니다.
-- Kotlin
 - DI
 
 ## 프로젝트 이력
