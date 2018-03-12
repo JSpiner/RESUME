@@ -72,15 +72,14 @@
 현재는 아래것들을 익히고 있습니다.
 - Test Code(TDD는 아닙니다.)
 - Clean Code
-- MVP Pattern
 - Docker
 - Kotlin
 
 앞으로는 아래것들을 익히려고 합니다.
 - DI
+- Spring
 
 ## 프로젝트 이력
-
 
 ### 헤이딜러
 - 소개: 경매로 내차팔기 서비스
