@@ -71,7 +71,6 @@
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
 - Test Code(TDD는 아닙니다.)
-- Clean Code
 - Docker
 - Kotlin
 
