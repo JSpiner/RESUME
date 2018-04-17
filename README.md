@@ -18,12 +18,10 @@
 - Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
-- 어떤 코드를 지향하는가?
 ```
 주석으로 코드를 설명하는걸 지양하고, 
 코드와 테스트만으로 'how', 'why'를 표현하는걸 지향하고 있습니다.
 ```
-- 어떤 커뮤니케이션을 지향하는가?
 ```
 대답이 아니라 질문으로 사람을 판단하라. -볼테르-
 제가 가장 좋아하는 말입니다. 항상 좋은 질문을 하려고 노력합니다.
@@ -52,7 +50,7 @@
 - DataBinding
 - TravisCI + Deploy
 - lint + test code
-- 기타 : glide, picasso, retrofit, eventbus, stream...
+- 기타 : glide, picasso, retrofit, eventbus, stream
 
 ### Server
 - python - flask/gunicorn
