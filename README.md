@@ -158,6 +158,9 @@
 #### 강원랜드 메이커톤 - 대상(1등위)
 - 수상 날짜 : 2017년 1월
 
+<br/>
+<br/>
+
 ### 이 이외에도 [25+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
 (너무 길어져 생략합니다. [AWARDS.md에서](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md) 확인해주세요)
 
