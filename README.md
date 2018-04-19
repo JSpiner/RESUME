@@ -171,7 +171,7 @@
 ### [신광수](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(개발자, [Fandom Inc.](http://fandom.io/))
 >해커톤마니아. 매사에 전념해 항상 좋은 결과를 만듬
 
-### [김병찬](https://github.com/KimByungChan/)(개발자, [PRNDCompany](http://prnd.co.kr))
+### [김병찬](https://github.com/KimByungChan/)(개발자, [PRNDCompany](http://prnd.co.kr), 직장동료)
 > <img src="https://github.com/JSpiner/RESUME/raw/master/images/comment_dean.png" width="200" height="200" />
 
 ### [이재일](https://github.com/githubrat/)(개발자, [Fdding Inc.](http://fdding.com/))
@@ -187,7 +187,7 @@
 ### [장준하](https://github.com/jangjunha/)(개발자, [Frientrip](https://frip.co.kr/))
 > 개발자로서도 팀원으로서도 함께하고 싶은 사람입니다.
 
-### [이지훈]()(개발자, [PRNDCompany](http://prnd.co.kr))
+### [이지훈]()(개발자, [PRNDCompany](http://prnd.co.kr), 직장동료)
 > 1. 커뮤니케이션에 공을 들이는 게 느껴지는 사람. 섬세한 설명과 좋은 질문으로 함께 일 할 때 편하고 기분이 좋아지는 사람.
 > 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
 > 3. 귀엽다.
