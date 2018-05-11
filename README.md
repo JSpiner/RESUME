@@ -62,7 +62,7 @@
 - 모니터링 - Fabric / Newrelic / Google Analytics
 - 커뮤니케이션 - Slack
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
-- CI/CD - TravisCI / Coveralls
+- CI/CD - TravisCI / Coveralls / Jenkins
 - 버전관리 - Git에 익숙하며 GitFlow를 애용합니다.
 
 ### TODO
