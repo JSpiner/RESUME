@@ -126,7 +126,7 @@
 - 개인 프로젝트
 - event 기반 error handler
 - test coverage 95%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
+- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/SafeExecutor)에서 보실 수 있습니다.
 
 ### TedPermission [Contributor]
 - [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
