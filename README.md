@@ -187,7 +187,7 @@
 ### [장준하](https://github.com/jangjunha/)(개발자, [Frientrip](https://frip.co.kr/))
 > 개발자로서도 팀원으로서도 함께하고 싶은 사람입니다.
 
-### [이지훈]()(개발자, [PRNDCompany](http://prnd.co.kr), 직장동료)
+### [이지훈](https://github.com/gglns94)(개발자, [PRNDCompany](http://prnd.co.kr), 직장동료)
 > 1. 커뮤니케이션에 공을 들이는 게 느껴지는 사람. 섬세한 설명과 좋은 질문으로 함께 일 할 때 편하고 기분이 좋아지는 사람.
 > 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
 > 3. 귀엽다.
