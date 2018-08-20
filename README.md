@@ -34,10 +34,10 @@
 - 피알앤디컴퍼니(2017 ~ 현재) 
 
 ## 단체경력
-- 삼성소프트웨어멤버십(2014)
-- 차세대보안리더(2015)
-- 소프트웨어마에스트로(2016 ~ 2017)
-- Mashup 개발동아리(2017 ~ 현재)
+- 삼성소프트웨어멤버십 주니어 1기(2014)
+- 차세대보안리더 BoB 4기(2015)
+- 소프트웨어마에스트로 7기(2016 ~ 2017)
+- Mashup 개발동아리(2017 ~ 2018)
 
 ## 학력
 - 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
@@ -62,7 +62,7 @@
 - 모니터링 - Fabric / Google Analytics
 - 커뮤니케이션 - Slack
 - 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
-- CI/CD - TravisCI / Coveralls / Jenkins
+- CI/CD - TravisCI / Coveralls / Jenkins / SonarQube
 - 버전관리 - Git/GitFlow를 애용합니다.
 
 ### TODO
