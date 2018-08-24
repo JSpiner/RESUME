@@ -193,6 +193,9 @@
 > 3. 귀엽다.
 
 <br/>
+지인분의 평가는 [Pull Request](https://github.com/JSpiner/RESUME/pulls)로 받고있습니다.
+
+----
 
 여기까지 읽어주셔서 감사합니다. <br/>
 부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jspiner@naver.com으로 연락주세요.<br/>
