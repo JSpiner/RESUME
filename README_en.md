@@ -171,6 +171,15 @@ I will try to apply it simply in Hackerthon and apply it in the project.
 > 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
 > 3. 귀엽다.
 
+### [Donggeun Lee](https://github.com/eastroots92)(Developer, [OPENULL](https://ssomee.com/))
+
+> I feel respected when I work with him. And he is always considerate of others.
+> He is always active and progressive.
+> Also, I always get a lot of enlightenment from the process of collaborating with JSpiner's code.
+>
+> Most importantly, his code is all cool(a.k.a SWEEEEEEEET!!!!).
+> He is the coolest developer I've ever seen.
+
 <br/>
 
 Thanks for reading. <br/>
