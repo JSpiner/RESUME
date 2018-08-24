@@ -192,8 +192,8 @@
 > 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
 > 3. 귀엽다.
 
+지인분의 평가는 [Pull Request](https://github.com/JSpiner/RESUME/pulls) 로 받고있습니다.
 <br/>
-지인분의 평가는 [Pull Request](https://github.com/JSpiner/RESUME/pulls)로 받고있습니다.
 
 ----
 
