@@ -171,6 +171,26 @@ I will try to apply it simply in Hackerthon and apply it in the project.
 > 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
 > 3. 귀엽다.
 
+### [Sangkwon Park] (https://github.com/ParkSangGwon) (developer, [PRNDCompany] (http://prnd.co.kr), co-worker)
+I don't want you to hire this developer for the following reasons.
+
+1. He annoys the members.
+- If he find code that is not efficient, he try to fix it and suggest improve code.
+- If he find an error, he notify immediately and he help someone to resolve the problem as soon as possible.
+- If he think that there is something to improve in our company culture or service, he suggest good idea about that.
+
+2. He don't work as directed.
+- If He think there is a better way or an additional plan, he talk right away to member.
+- He find out the holes in the planning that we can not think of, and suggest a good solution.
+- If he realizes designer mistake of the screen or the phrase, he make code first himself which is expected to have intended, and he make confirm to designer.
+
+3. He say he is wrong.
+- He always try to figure out what he lack in myself.
+- He try to get feedback from co-worker about his work.
+- If he make some error or mistake, he immediately reports to his leader.
+
+For this reason, I hope this developer does not want to hire another company because I want to work with our company.
+
 ### [Donggeun Lee](https://github.com/eastroots92)(Developer, [OPENULL](https://ssomee.com/))
 
 > I feel respected when I work with him. And he is always considerate of others.
