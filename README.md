@@ -54,6 +54,8 @@
 - 기타 : glide, picasso, retrofit, eventbus, stream
 
 ### Server
+클라이언트 개발자기에, 
+클라이언트에 필요한 기술을 테스트하고 검증할 수 있을정도의 서버 스킬을 가지고 있습니다.
 - python - flask/gunicorn
 - celery 
 - rabbitmq / messageQ / redis
@@ -70,8 +72,8 @@
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
 - Test Code(TDD는 아닙니다.)
-- Docker
 - Kotlin
+- Docker
 
 앞으로는 아래것들을 익히려고 합니다.
 - DI
