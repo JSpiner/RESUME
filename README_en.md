@@ -142,7 +142,7 @@ I will try to apply it simply in Hackerthon and apply it in the project.
 ### In addition, there are [25+ awards](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md). 
 (Too long to omit. check it at [AWARDS.md](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md).)
 
-## Peer evaluation
+## Recommendation
 ### [Hanseulmaro Kim](https://github.com/honeymaro)(Developer, [CICERON Inc.](https://ciceron.me/))
 >얕고 넓게 신기술을 좇기보다는 한 가지 기술의 원리 파악 및 응용에 집중하는 편입니다. 따라서 대화를 할 때 그 깊이를 많이 체감하곤 합니다. 그리고 항상 본인의 실력을 가늠하기 위해 필드에서 빨리 적용해보고 각종 대회에서 열심히 검증받으려 합니다. 컴퓨터 이외에도 호기심을 자극하는 활동에 끊임없이 도전하는 모습에서 배움에 대한 열정 또한 대단하다고 생각합니다. 항상 겸손하고 예의 바른 모습도 보기 좋습니다. 화이팅입니다!!
 
