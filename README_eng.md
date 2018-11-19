@@ -5,7 +5,7 @@
 ![status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)
 
 [한국어](./README.md) [English](./README_en.md)
-
+c
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
