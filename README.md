@@ -51,7 +51,6 @@
 - 기타 : glide, picasso, retrofit, eventbus, stream...
 
 ### Server
-클라이언트 개발자기에, 
 클라이언트에 필요한 기술을 테스트하고 검증할 수 있을정도의 서버 스킬을 가지고 있습니다.
 - python - flask/gunicorn
 - nodejs
