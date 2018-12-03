@@ -171,7 +171,7 @@ I will try to apply it simply in Hackerthon and apply it in the project.
 > 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
 > 3. 귀엽다.
 
-### [Sangkwon Park] (https://github.com/ParkSangGwon) (developer, [PRNDCompany] (http://prnd.co.kr), co-worker)
+### [Sangkwon Park](https://github.com/ParkSangGwon) (developer, [PRNDCompany](http://prnd.co.kr), co-worker)
 I don't want you to hire this developer for the following reasons.
 
 1. He annoys the members.
