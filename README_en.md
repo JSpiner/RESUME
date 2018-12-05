@@ -24,8 +24,8 @@ and trying to express 'how' and 'why' just by code and testing.
 
 ## Company
 - freelancer(2014 ~ 2016)
-- [heydealer](https://play.google.com/store/apps/details?id=kr.perfectree.heydealer)PRNDCompany(2017 ~ 2018) 
-- [Ridi books](https://play.google.com/store/apps/details?id=com.initialcoms.ridi)RIDICorporation(2018 ~ now)
+- ([heydealer](https://play.google.com/store/apps/details?id=kr.perfectree.heydealer))PRNDCompany(2017 ~ 2018) 
+- ([Ridi books](https://play.google.com/store/apps/details?id=com.initialcoms.ridi))RIDICorporation(2018 ~ now)
 
 ## Organization
 - Samsung Software Membership(2014)
