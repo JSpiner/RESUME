@@ -235,7 +235,7 @@
 
 진짜 개발자란... 가장 먼저 떠오르는 사람은 오직 `JSpiner` 뿐이였습니다.
 
-
+---
 
 지인분의 평가는 [Pull Request](https://github.com/JSpiner/RESUME/pulls) 로 받고있습니다.
 <br/>
