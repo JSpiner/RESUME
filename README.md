@@ -166,10 +166,10 @@
 ### [신광수](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(개발자, [Fandom Inc.](http://fandom.io/))
 >해커톤마니아. 매사에 전념해 항상 좋은 결과를 만듬
 
-### [김병찬](https://github.com/KimByungChan/)(개발자, [PRNDCompany](http://prnd.co.kr), 직장동료)
+### [김병찬](https://github.com/KimByungChan/)(개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
 > <img src="https://github.com/JSpiner/RESUME/raw/master/images/comment_dean.png" width="200" height="200" />
 
-### [이재일](https://github.com/githubrat/)(개발자, [Fdding Inc.](http://fdding.com/))
+### [이재일](https://github.com/githubrat/)(개발자, [RIDI](https://ridicorp.com/), 현 직장동료)
 > 해커톤 마니아. <br> 골치아픈 이슈들이 생겼을 때 여러번 도움을 받은 경험이 있습니다. 여러 상황에서 생길만한 이슈대응능력이 좋습니다.
 > <br> 관심갖는 모든 영역에 깊게 파고 듭니다.
 
@@ -182,12 +182,12 @@
 ### [장준하](https://github.com/jangjunha/)(개발자, [Frientrip](https://frip.co.kr/))
 > 개발자로서도 팀원으로서도 함께하고 싶은 사람입니다.
 
-### [이지훈](https://github.com/gglns94)(개발자, [PRNDCompany](http://prnd.co.kr), 직장동료)
+### [이지훈](https://github.com/gglns94)(개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
 > 1. 커뮤니케이션에 공을 들이는 게 느껴지는 사람. 섬세한 설명과 좋은 질문으로 함께 일 할 때 편하고 기분이 좋아지는 사람.
 > 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
 > 3. 귀엽다.
 
-### [박상권](https://github.com/ParkSangGwon) (개발자, [PRNDCompany](http://prnd.co.kr), 직장동료)
+### [박상권](https://github.com/ParkSangGwon) (개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
 아래와 같은 이유로 귀사에서 이 사람을 채용하지 않았으면 합니다.
 
 1. 구성원들을 귀찮게 합니다.
