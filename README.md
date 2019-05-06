@@ -77,15 +77,21 @@
 
 ## 프로젝트 이력
 
+<img src='./images/ridibooks.png' width="80" />
+
+### 리디북스
+- 소개: 1등 전자책 서비스
+- 기간: 2018.09 ~ 현재
+
 ### 헤이딜러
 - 소개: 경매로 내차팔기 서비스
 - 기간: 2017.07 ~ 2018.09
 - 역할: 유지보수, 신규기능 개발(현재 인수인계후 메인개발)
 - 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
 
-### CALY
 <img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
 
+### CALY
 - 소개: 일정기반 추천서비스 CALY
 - 기간: 2016.12 ~ 2017.07
 - 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
@@ -93,9 +99,9 @@
 - 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
 - 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
 
-### Surfinger
 <img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
 
+### Surfinger
 - 소개: 슬랙 봇 기반 타자게임
 - 기간: 2016.09 ~ 2016.12
 - 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
