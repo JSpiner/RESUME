@@ -11,17 +11,12 @@
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
 - 군필여부: 현 병역특례 복무중 (2급 현역), 2020.09.16 전역예정
-
-클린코더에 나온 말처럼, **창의적인 출력은 창의적인 입력에서 나온다**고 생각합니다. <br/>
-색다르고 다양한 것들을 해보고 있습니다.
-
 - 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행
 - Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 ```
-주석으로 코드를 설명하는걸 지양하고, 
-코드와 테스트만으로 'how', 'why'를 표현하는걸 지향하고 있습니다.
+엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
@@ -76,6 +71,11 @@
 - Domain Driven Design
 
 ## 프로젝트 이력
+
+
+<img src='./images/toonies.png' width="80" />
+### 투니스
+- 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
 
 <img src='./images/ridibooks.png' width="80" />
 
