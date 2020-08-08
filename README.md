@@ -54,6 +54,10 @@
 - rabbitmq / messageQ / redis
 - docker 
 
+### Frontend
+간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
+- React
+
 ### Process
 - 모니터링 - Fabric / Google Analytics
 - 커뮤니케이션 - Slack
