@@ -3,9 +3,7 @@
 [![HitCount](http://hits.dwyl.io/JSpiner/RESUME.svg)](http://hits.dwyl.io/JSpiner/RESUME)
 ![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg)
-
-[한국어](./README.md) [English](./README_en.md)
+![status](https://img.shields.io/badge/status-looking_for_a%20job%20-brightgreen.svg)
 
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
