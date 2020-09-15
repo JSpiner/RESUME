@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.io/JSpiner/RESUME.svg)](http://hits.dwyl.io/JSpiner/RESUME)
 ![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/status-looking_for_a%20job%20-brightgreen.svg)
+![status](https://img.shields.io/badge/working-brightgreen.svg)
 
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
@@ -87,7 +87,8 @@
 
 ### 리디북스
 - 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 현재
+- 기간: 2018.09 ~ 2020.09
+- 프로젝트 : 리디페이퍼(3세대) 앱 개발, 웹툰/웹소설용 기능 추가, 유지보수
 
 ### 헤이딜러
 - 소개: 경매로 내차팔기 서비스
