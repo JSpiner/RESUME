@@ -189,7 +189,7 @@
 ### [김병찬](https://github.com/KimByungChan/)(개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
 > <img src="https://github.com/JSpiner/RESUME/raw/master/images/comment_dean.png" width="200" height="200" />
 
-### [이재일](https://github.com/githubrat/)(개발자, [RIDI](https://ridicorp.com/), 현 직장동료)
+### [이재일](https://github.com/githubrat/)(개발자, [RIDI](https://ridicorp.com/), 전 직장동료)
 > 해커톤 마니아. <br> 골치아픈 이슈들이 생겼을 때 여러번 도움을 받은 경험이 있습니다. 여러 상황에서 생길만한 이슈대응능력이 좋습니다.
 > <br> 관심갖는 모든 영역에 깊게 파고 듭니다.
 
