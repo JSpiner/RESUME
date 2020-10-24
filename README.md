@@ -8,7 +8,7 @@
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
-- 군필여부: 현 병역특례 복무중 (2급 현역), 2020.09.16 전역예정
+- 군필여부: 병역특례로 복무완료
 - 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행
 - Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
@@ -22,7 +22,8 @@
 ## 회사경력
 - 프리랜서(2014 ~ 2016)
 - [헤이딜러] [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- [리디북스] [리디주식회사](https://www.ridicorp.com/)(2018 ~ 현재)
+- [리디북스] [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
+- [스타일쉐어] [스타일쉐어](https://stylesha.re) (2020 ~ 현재)
 
 ## 단체경력
 - 삼성소프트웨어멤버십 주니어 1기(2014)
