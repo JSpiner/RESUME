@@ -9,7 +9,7 @@
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
 - 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행
+- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
 - Email: jspiner@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
@@ -45,7 +45,7 @@
 - lint + test code
 - 기타 : glide, picasso, retrofit, eventbus, stream...
 
-### Server
+### Backend
 클라이언트에 필요한 기술을 테스트하고 검증할 수 있을정도의 서버 스킬을 가지고 있습니다.
 - python - flask/gunicorn
 - nodejs
@@ -60,15 +60,14 @@
 ### Process
 - 모니터링 - Fabric / Google Analytics
 - 커뮤니케이션 - Slack
-- 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello
-- CI/CD - TravisCI / Coveralls / Jenkins / SonarQube
+- 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello / Asana
+- CI/CD - TravisCI / Coveralls / Jenkins / SonarQube / Actions
 - 버전관리 - Git/GitFlow를 애용합니다.
 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
-- React
-- Clean Architecture
+- React + Kotlin JS
 
 앞으로는 아래것들을 익히려고 합니다.
 - Domain Driven Design
@@ -146,6 +145,9 @@
 취미로 해커톤을 종종 나가곤 합니다. <br/>
 **프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
 해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
+
+#### 세종대학교 메이커톤 2020 - 우수상
+- 수상 날짜 : 2020년 12
 
 #### 서울 스타트업 윅엔드 2019 - Creativity(2위)
 - 수상 날짜 : 2019년 11월
