@@ -117,6 +117,9 @@
 
 ## 오픈소스 기여
 
+### PhotoEditor
+- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
+
 ### ZeplinDiff
 - 개인 프로젝트
 - 디자인 협업툴 Zeplin을 사용할때, 도움을 주는 유틸
