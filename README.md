@@ -37,13 +37,13 @@
 
 ## 사용 기술
 ### Android
-- Kotlin
+- Kotlin, Kotlin DSL
+- Dagger
 - rxJava
-- MVP, MVVM Pattern
+- Epoxy
+- MVP, MVVM, MvRx Pattern
 - DataBinding
-- TravisCI + Deploy(CD)
 - lint + test code
-- 기타 : glide, picasso, retrofit, eventbus, stream...
 
 ### Backend
 클라이언트에 필요한 기술을 테스트하고 검증할 수 있을정도의 서버 스킬을 가지고 있습니다.
@@ -55,14 +55,18 @@
 
 ### Frontend
 간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
-- React
+- React / KotlinJS
 
-### Process
-- 모니터링 - Fabric / Google Analytics
-- 커뮤니케이션 - Slack
-- 이슈관리 - Github / Jira(애자일/스프린트/칸반) / Trello / Asana
-- CI/CD - TravisCI / Coveralls / Jenkins / SonarQube / Actions
-- 버전관리 - Git/GitFlow를 애용합니다.
+그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
+- 팀 : 기능조직 / 목적조직 / 스쿼드
+- 배포 : 정기배포(1주) / 배포자동화 / 단계적배포
+- 실험 : AB 테스팅 / deeplink / referrer / Firebase
+- 모니터링 : Fabric / Google Analytics / Firebase Analytics
+- 커뮤니케이션 : Slack
+- 이슈관리 : Github / Jira / Trello / Asana
+- CI/CD : TravisCI / Coveralls / Jenkins / SonarQube / Actions
+- 디자인 협업 : Zeplin / Figma
+- 버전관리 : Git / GitFlow
 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
@@ -94,7 +98,7 @@
 ### 헤이딜러
 - 소개: 경매로 내차팔기 서비스
 - 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발(현재 인수인계후 메인개발)
+- 역할: 유지보수, 신규기능 개발
 - 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
 
 <img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
