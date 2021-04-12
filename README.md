@@ -67,7 +67,8 @@
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
-- React + Kotlin JS
+- Compose
+- Coroutine
 
 앞으로는 아래것들을 익히려고 합니다.
 - Domain Driven Design
