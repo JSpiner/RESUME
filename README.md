@@ -5,6 +5,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
 ![status](https://img.shields.io/badge/looking_for_job-brightgreen.svg)
 
+---
+:exclamation: 다음 스텝을 함께할 팀을 찾고 있습니다. </br>
+안드로이드 엔지니어가 필요한 팀이 있다면 연락 부탁드립니다.
+---
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
@@ -23,7 +27,7 @@
 - 프리랜서(2014 ~ 2016)
 - [헤이딜러] [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
 - [리디북스] [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [스타일쉐어] [스타일쉐어](https://stylesha.re) (2020 ~ 현재)
+- [스타일쉐어] [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
 
 ## 단체경력
 - 삼성소프트웨어멤버십 주니어 1기(2014)
