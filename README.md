@@ -2,12 +2,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/looking_for_job-brightgreen.svg)
+![status](https://img.shields.io/badge/hired-brightgreen.svg)
 
----
-:exclamation: 다음 스텝을 함께할 팀을 찾고 있습니다. </br>
-안드로이드 엔지니어가 필요한 팀이 있다면 연락 부탁드립니다.
----
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 정성민
