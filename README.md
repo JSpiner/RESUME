@@ -19,9 +19,10 @@
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
 
 ## 회사경력
-- [스타일쉐어] [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디북스] [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [헤이딜러] [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
+- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
+- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
+- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
+- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
 - 프리랜서(2014 ~ 2016)
 
 ## 단체경력
