@@ -197,8 +197,8 @@
 ### [신광수](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(개발자, [Fandom Inc.](http://fandom.io/))
 >해커톤마니아. 매사에 전념해 항상 좋은 결과를 만듬
 
-### [김병찬](https://github.com/KimByungChan/)(개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
-> <img src="https://github.com/JSpiner/RESUME/raw/master/images/comment_dean.png" width="200" height="200" />
+### [김병찬](https://github.com/deeean/)(개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
+> 뛰어난 커뮤니케이션을 바탕으로 도메인에 대한 이해를 매우 중요시하며 디자이너가 가질법한 섬세함까지 삼위일체를 가지고 있는 개발자라 생각합니다.
 
 ### [이재일](https://github.com/githubrat/)(개발자, [RIDI](https://ridicorp.com/), 전 직장동료)
 > 해커톤 마니아. <br> 골치아픈 이슈들이 생겼을 때 여러번 도움을 받은 경험이 있습니다. 여러 상황에서 생길만한 이슈대응능력이 좋습니다.
