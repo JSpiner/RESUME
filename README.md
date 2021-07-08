@@ -249,7 +249,7 @@
 
 
 
-### [김정규](https://github.com/LenKIM)(개발자, [DAOU S/W Labs](www.daou.com/))
+### [김정규](https://github.com/LenKIM)(개발자, [DAOU S/W Labs](http://www.daou.com/))
 
 > 저는 어떤 개발적인 문제를 해결해야 될때, 속으로 생각해봅니다.
 >
