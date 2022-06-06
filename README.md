@@ -123,25 +123,11 @@
 
 ## 오픈소스 기여
 
+### Sonatype/nexus directjngine
+- [파일 경로에 따라 디버그 유틸이 꼬이는 버그 수정 PR](https://github.com/sonatype/directjngine/pull/21)
+
 ### PhotoEditor
 - [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
-
-### ZeplinDiff
-- 개인 프로젝트
-- 디자인 협업툴 Zeplin을 사용할때, 도움을 주는 유틸
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/ZeplinDiff)에서 보실 수 있습니다.
-
-### CacheBank
-- 개인 프로젝트
-- rxJava기반 안드로이드 Disk/Memory 캐싱 라이브러리
-- test coverage 83%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
-
-### SafeExecutor 
-- 개인 프로젝트
-- event 기반 error handler
-- test coverage 95%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/SafeExecutor)에서 보실 수 있습니다.
 
 ### TedPermission [Contributor]
 - [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
