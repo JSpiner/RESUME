@@ -38,25 +38,26 @@
 
 ## 사용 기술
 ### Android
+요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다.
 - Kotlin, Kotlin DSL
-- Dagger
-- rxJava
-- Epoxy
-- MVP, MVVM, MvRx Pattern
-- DataBinding
+- DI : Dagger / Koin
+- Stream : rxJava / coroutine
+- View : Compose, Epoxy, Databinding
+- Architecture : MVI, MVVM, MVP
 - lint + test code
 
 ### Backend
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 스킬을 가지고 있습니다.
+클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다.
 - python - flask/gunicorn
 - nodejs
 - celery 
 - rabbitmq / messageQ / redis
 - docker 
+- selenium
 
 ### Frontend
-간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
-- React / KotlinJS
+주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다.
+- React
 
 그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
 - 팀 : 기능조직 / 목적조직 / 스쿼드
@@ -68,15 +69,6 @@
 - CI/CD : TravisCI / Coveralls / Jenkins / SonarQube / Actions
 - 디자인 협업 : Zeplin / Figma
 - 버전관리 : Git / GitFlow
-
-### TODO
-**새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
-현재는 아래것들을 익히고 있습니다.
-- Compose
-- Coroutine
-
-앞으로는 아래것들을 익히려고 합니다.
-- Domain Driven Design
 
 ## 프로젝트 이력
 
