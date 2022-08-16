@@ -121,17 +121,20 @@
 
 ## 오픈소스 기여
 
+### Adambl4/mirakle
+- [안드로이드 리모트 빌드 환경에서 hostname 변환이 잘못되고 한글이 깨지는 이슈 수정](https://github.com/Adambl4/mirakle/pull/123)
+
 ### Sonatype/nexus directjngine
 - [파일 경로에 따라 디버그 유틸이 꼬이는 버그 수정 PR](https://github.com/sonatype/directjngine/pull/21)
 
 ### PhotoEditor
 - [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
 
-### TedPermission [Contributor]
+### TedPermission
 - [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
 - [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
 
-### RxAndroid [Contributor]
+### RxAndroid
 - [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
 ## 수상 경력
