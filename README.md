@@ -31,7 +31,8 @@
 - [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
 - 프리랜서(2014 ~ 2016)
 
-## 단체경력
+## 대외활동
+- [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
 - 네이버 부스트캠프 코드 리뷰어(2021)
 - Mashup 개발동아리(2017 ~ 2018)
 - 소프트웨어 마에스트로 7기(2016 ~ 2017)
