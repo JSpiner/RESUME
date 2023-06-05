@@ -143,6 +143,9 @@
 **프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
 해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
 
+### KakaoMobilityXGCP Cloud Hero - 사내 3위
+- 수상 날짜 : 2023년 05월
+ 
 #### 세종대학교 메이커톤 2020 - 우수상
 - 수상 날짜 : 2020년 12
 
@@ -176,7 +179,7 @@
 <br/>
 <br/>
 
-### 이 이외에도 [25+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
+### 이 이외에도 [30+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
 (너무 길어져 생략합니다. [AWARDS.md에서](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md) 확인해주세요)
 
 ## 지인 평가
