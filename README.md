@@ -43,6 +43,27 @@
 - 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
 - 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
 
+## 오픈소스 기여
+
+### airbnb/mavericks
+- [Compose에서 viewModel scope를 커스텀하게 잡을경우 생기는 버그 수정](https://github.com/airbnb/mavericks/pull/712)
+
+### Adambl4/mirakle
+- [안드로이드 리모트 빌드 환경에서 hostname 변환이 잘못되고 한글이 깨지는 이슈 수정](https://github.com/Adambl4/mirakle/pull/123)
+
+### Sonatype/nexus directjngine
+- [파일 경로에 따라 디버그 유틸이 꼬이는 버그 수정 PR](https://github.com/sonatype/directjngine/pull/21)
+
+### PhotoEditor
+- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
+
+### TedPermission
+- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
+- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
+
+### RxAndroid
+- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
+
 ## 사용 기술
 ### Android
 요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다.
@@ -119,27 +140,6 @@
 - 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
 - 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
 - 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
-
-## 오픈소스 기여
-
-### airbnb/mavericks
-- [Compose에서 viewModel scope를 커스텀하게 잡을경우 생기는 버그 수정](https://github.com/airbnb/mavericks/pull/712)
-
-### Adambl4/mirakle
-- [안드로이드 리모트 빌드 환경에서 hostname 변환이 잘못되고 한글이 깨지는 이슈 수정](https://github.com/Adambl4/mirakle/pull/123)
-
-### Sonatype/nexus directjngine
-- [파일 경로에 따라 디버그 유틸이 꼬이는 버그 수정 PR](https://github.com/sonatype/directjngine/pull/21)
-
-### PhotoEditor
-- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
-
-### TedPermission
-- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
-- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
-
-### RxAndroid
-- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
 ## 수상 경력
 취미로 해커톤을 종종 나가곤 합니다. <br/>
