@@ -122,6 +122,9 @@
 
 ## 오픈소스 기여
 
+### airbnb/mavericks
+- [Compose에서 viewModel scope를 커스텀하게 잡을경우 생기는 버그 수정](https://github.com/airbnb/mavericks/pull/712)
+
 ### Adambl4/mirakle
 - [안드로이드 리모트 빌드 환경에서 hostname 변환이 잘못되고 한글이 깨지는 이슈 수정](https://github.com/Adambl4/mirakle/pull/123)
 
