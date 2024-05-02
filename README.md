@@ -146,7 +146,10 @@
 **프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
 해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
 
-### KakaoMobilityXGCP Cloud Hero - 사내 3위
+### KakaoMobility X GCP Cloud Heo - 사내 3위
+- 수상 날짜 : 2024년 4월
+
+### KakaoMobility X GCP Cloud Hero - 사내 3위
 - 수상 날짜 : 2023년 05월
  
 #### 세종대학교 메이커톤 2020 - 우수상
