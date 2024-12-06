@@ -4,8 +4,14 @@
 **프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
 해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
 
-### KakaoMobility X GCP Cloud Heo - 사내 3위
+### KakaoMobility 사내 해킹대회 CTF - 팀 1위(팀장)
+- 수상 날짜 : 2024년 6월
+
+### KakaoMobility X GCP Cloud Hero - 사내 3위
 - 수상 날짜 : 2024년 4월
+
+### 사내 정보보안팀 선정 ‘2023 시큐리티 어워드’ 개인 선정
+- 수상 날짜 : 2023년 12월
 
 ### KakaoMobility X GCP Cloud Hero - 사내 3위
 - 수상 날짜 : 2023년 05월
