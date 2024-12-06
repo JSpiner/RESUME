@@ -19,11 +19,6 @@
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
 
-## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
-
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
-
 ## 회사경력
 - [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
 - [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
@@ -98,56 +93,19 @@
 - 디자인 협업 : Zeplin / Figma
 - 버전관리 : Git / GitFlow
 
-## 프로젝트 이력
-
-
-<img src='./images/toonies.png' width="80" />
-
-### 투니스
-- 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
-- 사이드 프로젝트로 혼자 서버/백엔드 개발
-- 기간 : 2019.01 ~ 2019.12
-- 매출 : 8,709,411원
-
-<img src='./images/ridibooks.png' width="80" />
-
-### 리디북스
-- 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 2020.09
-- 프로젝트 : 리디페이퍼(3세대) 앱 개발, 웹툰/웹소설용 기능 추가, 유지보수
-
-### 헤이딜러
-- 소개: 경매로 내차팔기 서비스
-- 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발
-- 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
-
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
-
-### CALY
-- 소개: 일정기반 추천서비스 CALY
-- 기간: 2016.12 ~ 2017.07
-- 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
-- 관련기술: Android, CI/CD(travis), Caldav, 3-legged OAuth, Travis, JIRA(애자일 스프린트), Collaborative Filtering(추천 알고리즘)
-- 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
-- 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
-
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
-
-### Surfinger
-- 소개: 슬랙 봇 기반 타자게임
-- 기간: 2016.09 ~ 2016.12
-- 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
-- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
-- 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
-
 ## 수상 경력
 취미로 해커톤을 종종 나가곤 합니다. <br/>
 **프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
 해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
 
-### KakaoMobility X GCP Cloud Heo - 사내 3위
+### KakaoMobility 사내 해킹대회 CTF - 팀 1위(팀장)
+- 수상 날짜 : 2024년 6월
+
+### KakaoMobility X GCP Cloud Hero - 사내 3위
 - 수상 날짜 : 2024년 4월
+
+### 사내 정보보안팀 선정 ‘2023 시큐리티 어워드’ 개인 선정
+- 수상 날짜 : 2023년 12월
 
 ### KakaoMobility X GCP Cloud Hero - 사내 3위
 - 수상 날짜 : 2023년 05월
