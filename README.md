@@ -13,10 +13,8 @@
 엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
-
 ## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
+- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 2024)
 - [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
 - [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
 - [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
