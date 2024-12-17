@@ -54,6 +54,7 @@
 
 
 ## 사용 기술
+| 분야 | 기술 | 숙련도 |
 | -- | -- | -- |
 | Android | Kotlin, Koin, RxJava, Coroutine, Compose, MVI, MVVM, Test | 요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다. |
 | Backend | python, fast-api, flask, celery, rabbitMQ, redis, docker, selenium | 클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다. |
