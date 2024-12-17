@@ -14,8 +14,8 @@
 ```
 
 ## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 2024)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
+- [카카오 모빌리티](https://www.kakaomobility.com/)(2021 ~ 2024)
+- [스타일쉐어](https://stylesha.re)(2020 ~ 2021)
 - [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
 - [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
 - 프리랜서(2014 ~ 2016)
@@ -31,7 +31,7 @@
 - 삼성소프트웨어멤버십 주니어 1기(2014)
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
+- 세종대학교 컴퓨터공학과 3학년 자퇴(2015 입학)
 - 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
 
 ## 오픈소스 기여
@@ -52,42 +52,13 @@
 - [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
 - [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
 
-### RxAndroid
-- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
 ## 사용 기술
-### Android
-요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다.
-- Kotlin, Kotlin DSL
-- DI : Dagger / Koin
-- Stream : rxJava / coroutine
-- View : Compose, Epoxy, Databinding
-- Architecture : MVI, MVVM, MVP
-- lint + test code
+| -- | -- | -- |
+| Android | Kotlin, Koin, RxJava, Coroutine, Compose, MVI, MVVM, Test | 요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다. |
+| Backend | python, fast-api, flask, celery, rabbitMQ, redis, docker, selenium | 클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다. |
+| Frontend | React, tailwindcss | 주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다. |
 
-### Backend
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다.
-- python - flask/gunicorn
-- nodejs
-- celery 
-- rabbitmq / messageQ / redis
-- docker 
-- selenium
-
-### Frontend
-주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다.
-- React
-
-그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
-- 팀 : 기능조직 / 목적조직 / 스쿼드
-- 배포 : 정기배포(1주) / 배포자동화 / 단계적배포
-- 실험 : AB 테스팅 / deeplink / referrer / Firebase
-- 모니터링 : Fabric / Google Analytics / Firebase Analytics
-- 커뮤니케이션 : Slack
-- 이슈관리 : Github / Jira / Trello / Asana
-- CI/CD : TravisCI / Coveralls / Jenkins / SonarQube / Actions
-- 디자인 협업 : Zeplin / Figma
-- 버전관리 : Git / GitFlow
 
 ## 수상 경력
 취미로 해커톤을 종종 나가곤 합니다. <br/>
