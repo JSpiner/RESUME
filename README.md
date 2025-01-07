@@ -162,7 +162,7 @@
 
 위와 같은 이유로 이 개발자는 저희 회사에서 함께 일했으면 하기 때문에, 다른회사에서 채용하지 않았으면 좋겠습니다.
 
-### [이동근](https://github.com/eastroots92)(개발자, [rainist](https://rainist.com/))
+### [이동근](https://github.com/eastroots92)(개발자, [당근마켓](https://www.daangn.com/))
 
 > 협업하는데 있어 상대를 배려하고 존중하는 것이 느껴지는 친구입니다.
 > 매사 모든 일에 진취적이고 적극적입니다.
@@ -173,7 +173,7 @@
 
 
 
-### [김정규](https://github.com/LenKIM)(개발자, [DAOU S/W Labs](http://www.daou.com/))
+### [김정규](https://github.com/LenKIM)(개발자, 우아한형제들)
 
 > 저는 어떤 개발적인 문제를 해결해야 될때, 속으로 생각해봅니다.
 >
@@ -189,7 +189,7 @@
 > 진짜 개발자란... 가장 먼저 떠오르는 사람은 오직 `JSpiner` 뿐이였습니다.
 
 
-### [이상훈](https://github.com/hun6728)(개발자, [RIDI](https://ridicorp.com/), 전 직장동료)
+### [이상훈](https://github.com/hun6728)(개발자, NAVER Financial, 전 직장동료)
 비대면 업무 상황이 증가됨에 따라, 협업의 가치는 계속 증가될 것입니다. 제가 본 성민님은 <b>협업에 최적화된 개발자</b>입니다.
 
 > <h3>고객이 불편하다고 느끼는 기능 외에 기술부채에도 공격적으로 대처합니다.</h3>
