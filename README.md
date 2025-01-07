@@ -66,53 +66,23 @@
 **프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
 해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
 
-### KakaoMobility 사내 해킹대회 CTF - 팀 1위(팀장)
-- 수상 날짜 : 2024년 6월
-
-### KakaoMobility X GCP Cloud Hero - 사내 3위
-- 수상 날짜 : 2024년 4월
-
-### 사내 정보보안팀 선정 ‘2023 시큐리티 어워드’ 개인 선정
-- 수상 날짜 : 2023년 12월
-
-### KakaoMobility X GCP Cloud Hero - 사내 3위
-- 수상 날짜 : 2023년 05월
- 
-#### 세종대학교 메이커톤 2020 - 우수상
-- 수상 날짜 : 2020년 12
-
-#### 서울 스타트업 윅엔드 2019 - Creativity(2위)
-- 수상 날짜 : 2019년 11월
-
-#### 미세먼지 해커톤 - 우수상
-- 수상 날짜 : 2019년 6월
-
-#### 9xD GDG Planet 해커톤 - Best Helper(개인수상), Zone중하상 수상(팀)
-- 수상 날짜 : 2018년 9월
-
-#### Unithon 대학생 연합 해커톤 - NH 농협은행상
-- 수상 날짜 : 2018년 1월
-
-#### 오사카 스타트업 윅엔드 2017 - 1st Place(1위)
-- 해외 해커톤
-- 수상 날짜 : 2017년 12월
-
-#### 인천 글로벌 스타트업 윅엔드 2017 - 1st Place(1위)
-- 수상 날짜 : 2017년 10월 
-- 관련정보 : https://github.com/JSpiner/know-your-kids
-
-#### Unithon 대학생 연합 해커톤 - 최우수상
-- 수상 날짜: 2017년 2월
-- 관련정보 : https://github.com/unithon4th
-
-#### 강원랜드 메이커톤 - 대상(1등위)
-- 수상 날짜 : 2017년 1월
-
-<br/>
-<br/>
-
-### 이 이외에도 [30+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
-(너무 길어져 생략합니다. [AWARDS.md에서](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md) 확인해주세요)
+| 날짜 | 수상명 |
+| -- | -- |
+| 2024년 6월 | KakaoMobility 사내 해킹대회 CTF - 팀 1위(팀장) |
+| 2024년 4월 | KakaoMobility X GCP Cloud Hero - 사내 3위 |
+| 2023년 12월 | 사내 정보보안팀 선정 ‘2023 시큐리티 어워드’ 개인 선정 |
+| 2023년 05월 | KakaoMobility X GCP Cloud Hero - 사내 3위 |
+| 2020년 12월 | 세종대학교 메이커톤 2020 - 우수상 |
+| 2019년 11월 | 서울 스타트업 윅엔드 2019 - Creativity(2위) |
+| 2019년 6월 | 미세먼지 해커톤 - 우수상 |
+| 2018년 9월 | 9xD GDG Planet 해커톤 - Best Helper(개인수상), Zone중하상 수상(팀) |
+| 2018년 1월 | Unithon 대학생 연합 해커톤 - NH 농협은행상 |
+| 2017년 12월 | 오사카 스타트업 윅엔드 2017 - 1st Place(1위) |
+| 2017년 10월 | 인천 글로벌 스타트업 윅엔드 2017 - 1st Place(1위)|
+| 2017년 2월 | Unithon 대학생 연합 해커톤 - 최우수상 |
+| 2017년 1월 | 강원랜드 메이커톤 - 대상(1등위) |
+| 2007년 ~ 2011년 | 정보올림피아드 수상 9회 |
+| 기타 | 이외에도 [30+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. |
 
 ## 지인 평가
 ### [김한슬마로](https://github.com/honeymaro)(개발자, [CICERON Inc.](https://ciceron.me/))
