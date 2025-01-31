@@ -36,6 +36,9 @@
 
 ## 오픈소스 기여
 
+### googlemaps/android-maps-compose
+- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose/pull/638) : state 오인 사용성이 있는 함수 deprecate 및 개선된 신규 함수 추가.
+
 ### airbnb/mavericks
 - [Compose에서 viewModel scope를 커스텀하게 잡을경우 생기는 버그 수정](https://github.com/airbnb/mavericks/pull/712)
 
