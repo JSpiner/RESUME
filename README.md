@@ -14,10 +14,11 @@
 ```
 
 ## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/)(2021 ~ 2024)
-- [스타일쉐어](https://stylesha.re)(2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
+- [당근](https://about.daangn.com/) 백엔드 엔지니어 (2025 ~ 현재)
+- [카카오 모빌리티](https://www.kakaomobility.com/) 안드로이드 엔지니어 (2021 ~ 2024)
+- [스타일쉐어](https://stylesha.re) 안드로이드 엔지니어 (2020 ~ 2021)
+- [리디주식회사](https://www.ridicorp.com/) 안드로이드 엔지니어 (2018 ~ 2020)
+- [피알앤디컴퍼니](http://prnd.co.kr) 안드로이드 엔지니어 (2017 ~ 2018) 
 - 프리랜서(2014 ~ 2016)
 
 ## 대외활동
