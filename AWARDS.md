@@ -43,11 +43,9 @@
 
 #### 인천 글로벌 스타트업 윅엔드 2017 - 1st Place(1위)
 - 수상 날짜 : 2017년 10월 
-- 관련정보 : https://github.com/JSpiner/know-your-kids
 
 #### Unithon 대학생 연합 해커톤 - 최우수상
 - 수상 날짜: 2017년 2월
-- 관련정보 : https://github.com/unithon4th
 
 #### 강원랜드 메이커톤 - 대상(1등위)
 - 수상 날짜 : 2017년 1월
