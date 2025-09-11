@@ -58,12 +58,11 @@
 
 
 ## 사용 기술
-| 분야 | 기술 | 숙련도 |
-| -- | -- | -- |
-| Android | Kotlin, Koin, RxJava, Coroutine, Compose, MVI, MVVM, Test | 요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다. |
-| Backend | python, fast-api, flask, celery, rabbitMQ, redis, docker, selenium | 클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다. |
-| Frontend | React, tailwindcss | 주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다. |
-
+- ~Backend: Kotlin Spring, Python FastAPI~
+- ~Android~
+- ~Web: React, Tailwind~
+- 더이상 기술과 분야를 가리지 않고, 모든 분야의 엔지니어링을 합니다.
+- VibeCoding Lover
 
 ## 수상 경력
 취미로 해커톤을 종종 나가곤 합니다. <br/>
