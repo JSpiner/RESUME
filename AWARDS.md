@@ -4,6 +4,9 @@
 **프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
 해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
 
+### Antropic Claude Code Builder 해커톤 - 3위
+- 수상 날짜 : 2025년 11월
+
 ###  Microsoft copilot 천하제일 입코딩 대회 (VibeCoding) - 1위
 - 수상 날짜 : 2025년 6월
 
