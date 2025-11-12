@@ -71,6 +71,7 @@
 
 | 날짜 | 수상명 |
 | -- | -- |
+| 2025년 11월 | Anthropic Claude Code Builder 해커톤 - 3위 |
 | 2025년 6월 | Microsoft copilot 천하제일 입코딩 대회 (VibeCoding) - 1위 |
 | 2025년 2월 | 삿포로 스타트업 윅엔드 2025 - 2nd Place |
 | 2024년 6월 | KakaoMobility 사내 해킹대회 CTF - 팀 1위(팀장) |
